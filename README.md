@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muthu Karuppan P</h1>
 <h3 align="center">A Passionate Full Stack & Mobile App Developer who loves to explore new technologies and working on new projects</h3>
 
+- 🌱 I’m currently learning **AWS, Docker and Kubernetes**
+
+- 💬 Ask me about **Flutter, React and Node**
+
+- 📫 How to reach me **muthukaruppanaakash76@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/14_FHHhpQYWXglDIcg0C7uOEcutwQsu85](https://drive.google.com/drive/folders/14_FHHhpQYWXglDIcg0C7uOEcutwQsu85)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muthu karuppan p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muthu karuppan p" height="30" width="40" /></a>
